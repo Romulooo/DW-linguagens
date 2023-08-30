@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(29, 31, 29);
+    margin: 0;
+}
+
+h1{
+    font-size: 2.5vw;
+    margin: 1vw 1vw;
+    color: rgb(16, 216, 76);
+}
+
+p{
+    font-size: 1.8vw;
+    margin: 1vw 1vw;
+    color: rgb(16, 216, 76);
+}
+
+li{
+    font-size: 1.4vw;
+    margin: 1vw 1vw;
+    color: rgb(16, 216, 76);
+}
+
+table{
+    margin: 3vw 3vw;
+}
+
+td{
+    width: 10vw;
+    border: solid rgb(16, 216, 76) 0.4vw;
+    color: #fff;
+    font-size: 2vw;
+    text-align: center;
+}
+
+.voltar{
+    color: rgb(255, 255, 255);
+    font-size: 3vw;
+    text-decoration: none;
+    margin-left: 1vw;
+}
+
+.p1{
+    width: 62vw;
+}
+
+.p2{
+    width: 100vw;
+}
+
+.img1{
+    width: 22vw;
+    margin-right: 10vw;
+    margin-top: -20vw;
+    float: right;
+}
+
+.botões{
+    width: 96vw;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 5vw;
+}
+
+.python{
+    width: 15vw;
+    transition: ease-in-out 0.3s;
+}
+.python:hover{
+    transform: scale(1.1);
+}
+
+.python2{
+    width: 50vw;
+    float:right;
+    margin-right: 1vw;
+    margin-top: 10vw;
+}
+
+.csharp{
+    margin-left: 6vw;
+    width: 16vw;
+    transition: ease-in-out 0.3s;
+}
+.csharp:hover{
+    transform: scale(1.1);
+}
+
+.cplusplus{
+    margin-left: 6vw;
+    width: 14.6vw;
+    transition: ease-in-out 0.3s;
+}
+.cplusplus:hover{
+    transform: scale(1.1);
+}
+
